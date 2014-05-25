@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: e70b243ab2e894c9e97cfb5ad4fe974e
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: interface_0006_energy_bottom
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1985
+        width: 550
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: buttons_0000_Level
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1901
+        width: 422
+        height: 145
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: interface_0005_energy_top
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1888
+        width: 540
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: interface_0002_Lightning_1
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1878
+        width: 78
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: interface_0004_Lightning_3
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1875
+        width: 94
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: buttons_0001_Play
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1702
+        width: 390
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: interface_0003_Lightning_2
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1693
+        width: 83
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: buttons_0002_Arrow
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1615
+        width: 322
+        height: 258
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: buttons_0003_Pause-Button
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1484
+        width: 387
+        height: 389
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: buttons_0006_City-Button
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1484
+        width: 380
+        height: 389
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: buttons_0007_Again-Button
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1484
+        width: 387
+        height: 389
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: buttons_0005_Jump_UP-Button
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1092
+        width: 386
+        height: 390
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: buttons_0004_Jump_Down-Button
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1091
+        width: 386
+        height: 391
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: interface_0000_lightning
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1056
+        width: 397
+        height: 426
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: interface_0001_right_side
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 950
+        width: 865
+        height: 532
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: interface_0007_antena
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 233
+        width: 900
+        height: 715
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 18-City-Button-Normal
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1904
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

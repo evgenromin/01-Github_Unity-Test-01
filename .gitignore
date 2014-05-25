@@ -9,5 +9,4 @@ Temp
 *.sln
 *.userprefs
 
-!Assets/Binaries/*.meta
-Assets/Binaries
+

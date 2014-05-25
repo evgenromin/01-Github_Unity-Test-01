@@ -1,0 +1,27 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: temp_01.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:8826b717ae3ab57c3b59f944dafcd5b3:bb8c3845307617ad8c1db836669d92d2:d275fd0a574dd50dc525f1e451db172f$
+#
+
+interface_0006_energy_bottom;2;1985;550;61;0.5;0.5
+18-City-Button-Normal;554;1904;142;142;0.5;0.5
+buttons_0000_Level;698;1901;422;145;0.5;0.5
+interface_0005_energy_top;1122;1888;540;158;0.5;0.5
+interface_0002_Lightning_1;1664;1878;78;168;0.5;0.5
+interface_0004_Lightning_3;1744;1875;94;171;0.5;0.5
+buttons_0001_Play;2;1702;390;171;0.5;0.5
+interface_0003_Lightning_2;394;1693;83;180;0.5;0.5
+buttons_0002_Arrow;479;1615;322;258;0.5;0.5
+buttons_0007_Again-Button;803;1484;387;389;0.5;0.5
+buttons_0006_City-Button;1192;1484;380;389;0.5;0.5
+buttons_0003_Pause-Button;1574;1484;387;389;0.5;0.5
+buttons_0005_Jump_UP-Button;2;1092;386;390;0.5;0.5
+buttons_0004_Jump_Down-Button;390;1091;386;391;0.5;0.5
+interface_0000_lightning;778;1056;397;426;0.5;0.5
+interface_0001_right_side;1177;950;865;532;0.5;0.5
+interface_0007_antena;2;233;900;715;0.5;0.5

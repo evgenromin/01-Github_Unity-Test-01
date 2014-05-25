@@ -1,0 +1,92 @@
+{"frames": {
+
+"menu_0000_Cloud_1.png":
+{
+	"frame": {"x":1078,"y":1136,"w":757,"h":436},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":757,"h":436},
+	"sourceSize": {"w":757,"h":436}
+},
+"menu_0001_Cloud_2.png":
+{
+	"frame": {"x":2,"y":1249,"w":1045,"h":399},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1045,"h":399},
+	"sourceSize": {"w":1045,"h":399}
+},
+"menu_0001_Windows_on.png":
+{
+	"frame": {"x":558,"y":1650,"w":289,"h":254},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":254},
+	"sourceSize": {"w":289,"h":254}
+},
+"menu_0002_Cloud_3.png":
+{
+	"frame": {"x":1078,"y":776,"w":886,"h":358},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":886,"h":358},
+	"sourceSize": {"w":886,"h":358}
+},
+"menu_0003_Cloud_4.png":
+{
+	"frame": {"x":1078,"y":353,"w":897,"h":421},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":897,"h":421},
+	"sourceSize": {"w":897,"h":421}
+},
+"menu_0004_Cloud_5.png":
+{
+	"frame": {"x":2,"y":1650,"w":554,"h":317},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":554,"h":317},
+	"sourceSize": {"w":554,"h":317}
+},
+"menu_0005_Wire_1.png":
+{
+	"frame": {"x":1344,"y":2,"w":647,"h":349},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":647,"h":349},
+	"sourceSize": {"w":647,"h":349}
+},
+"menu_0006_Wire_2.png":
+{
+	"frame": {"x":849,"y":1650,"w":467,"h":243},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":467,"h":243},
+	"sourceSize": {"w":467,"h":243}
+},
+"menu_0007_Wire_3.png":
+{
+	"frame": {"x":2,"y":2,"w":1340,"h":313},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1340,"h":313},
+	"sourceSize": {"w":1340,"h":313}
+},
+"menu_0008_Wire_4.png":
+{
+	"frame": {"x":2,"y":317,"w":1074,"h":930},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1074,"h":930},
+	"sourceSize": {"w":1074,"h":930}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "01_Menu_Cloud_Atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e5a643c2c346253daf37083a3df6317e:b971b8eaef6db95b4f9817c47e66c107:1d9f518fc0ab79e50d177d92070e1930$"
+}
+}
